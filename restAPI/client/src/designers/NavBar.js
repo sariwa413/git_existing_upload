@@ -96,7 +96,7 @@ function NavBar() {
                 <MenuItem key={page} onClick={handleCloseNavMenu }>
                   
                  
-                  <Link to = {'/'+page}>{page}</Link>
+                  <P></P>
                 </MenuItem>
               ))}
             </Menu>
